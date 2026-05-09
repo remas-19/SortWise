@@ -21,3 +21,5 @@ path = kagglehub.dataset_download("feyzazkefe/trashnet")
 
 # Print the path where the dataset is saved on the computer
 print("Path:", path)
+
+     # Data Exploration
